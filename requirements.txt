@@ -1,6 +1,11 @@
 torch
 torchvision
 numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+plotnine
 easydict
 tensorboard
 pydensecrf @ git+https://github.com/lucasb-eyer/pydensecrf.git
