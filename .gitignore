@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+*.pt
+*.ckpt
+results/
+dataset/
+img/
+cls/
+inst/
+benchmark_RELEASE/
+*.tgz
+train.txt
+val.txt
+train_noval.txt
